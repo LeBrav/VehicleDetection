@@ -6,8 +6,11 @@ I've developed both .py (Python) and .m (Matlab) code in this project.
 You can dowload the dataset used in this project in the following link: http://jacarini.dinf.usherbrooke.ca/static/dataset/baseline/highway.zip
 
 Input dataset:
-![gif (1)](https://giphy.com/gifs/Fhj9QENmiacoPtmlxQ)
+
+![](https://media.giphy.com/media/Fhj9QENmiacoPtmlxQ/giphy.gif)
+
 
 Result:
-![gif (2)](https://giphy.com/gifs/pANqDwHakrMp3f7B9L)
+
+![](https://media.giphy.com/media/pANqDwHakrMp3f7B9L/giphy.gif)
 
