@@ -12,5 +12,5 @@ Input dataset:
 
 Result:
 
-![](https://media.giphy.com/media/pANqDwHakrMp3f7B9L/giphy.gif)
+![](https://media.giphy.com/media/oXpkyfkD5LTxng8sdI/giphy.gif)
 
